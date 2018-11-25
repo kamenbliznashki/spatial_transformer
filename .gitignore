@@ -1,0 +1,7 @@
+*.pyc
+
+# exclude data
+data
+
+# virtual env
+.env

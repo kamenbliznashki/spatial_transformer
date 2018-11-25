@@ -1,0 +1,14 @@
+cycler==0.10.0
+kiwisolver==1.0.1
+matplotlib==3.0.1
+numpy==1.15.3
+Pillow==5.3.0
+protobuf==3.6.1
+pyparsing==2.3.0
+python-dateutil==2.7.5
+pytz==2018.7
+six==1.11.0
+tensorboardX==1.4
+torch==0.4.1
+torchvision==0.2.1
+tqdm==4.28.1

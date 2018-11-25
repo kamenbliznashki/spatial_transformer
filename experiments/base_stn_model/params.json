@@ -1,0 +1,14 @@
+{
+    "stn_module": "STNModule",
+    "icstn_steps": 4,
+    "data_dir": "./data",
+    "batch_size": 128,
+    "transformer_lr": 1e-3,
+    "clf_lr": 1e-3,
+    "lr_step": 1,
+    "lr_gamma": 1,
+    "n_epochs": 10,
+    "save_summary_steps": 10000,
+    "mini_data": false
+}
+
